@@ -1,2 +1,2 @@
-# my-first
-learning Github
+# First-demo
+Learning Git & Github.
